@@ -1,0 +1,26 @@
+#image1{
+    width: 90px;
+    height: 90px;
+    border-radius: 30px;
+}
+body{
+    text-align: center;
+    background: rgb(173,124,255);
+background: linear-gradient(177deg, rgba(173,124,255,1) 49%, rgba(0,227,32,1) 100%);
+}
+#about{
+    background-color: blanchedalmond;
+    font-size: 19px;
+}
+#menu{
+    font-family: cursive;
+    font-size: 19px;
+    float: right;
+    right: 30px;
+    top: 10px;
+    cursor: pointer;
+    color: black;
+    list-style: none;
+    position: fixed;
+    z-index: 10;
+}
